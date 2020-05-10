@@ -10,10 +10,7 @@ import javax.swing.JFrame;
 import javax.swing.SwingUtilities;
 
 
-/**
- *
- * @author mo3az
- */
+
 public class shimpment{
 
     /**
